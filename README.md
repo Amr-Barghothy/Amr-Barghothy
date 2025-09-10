@@ -35,26 +35,14 @@
 
 ---
 
-### 🚀 Featured Projects  
-
-| Project | Description | Tech | Link |
-|---------|-------------|------|------|
-| Project 1 | Your cool project description. | React, Firebase | [Repo](#) |
-| Project 2 | Another project description. | Java, SQL | [Repo](#) |
-| Project 3 | Something with Python. | Python | [Repo](#) |
-
-*(Replace with your actual repos and descriptions)*  
-
----
-
 ### 📈 GitHub Stats  
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOURUSERNAME&show_icons=true&theme=radical" alt="Amr's GitHub stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Amr-Barghothy&show_icons=true&theme=radical" alt="Amr's GitHub stats" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOURUSERNAME&theme=radical" alt="GitHub streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Amr-Barghothy&theme=radical" alt="GitHub streak" />
 </p>
 
 ---
@@ -62,9 +50,8 @@
 ### 🤝 Connect with Me  
 
 <p align="center">
-  <a href="mailto:youremail@example.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-  <a href="https://www.linkedin.com/in/YOUR-LINKEDIN"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-  <a href="https://github.com/YOURUSERNAME"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
+  <a href="mailto:amr.barghothy2@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+  <a href="https://github.com/Amr-Barghothy"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
 </p>
 
 ---
